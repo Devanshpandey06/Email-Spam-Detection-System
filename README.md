@@ -1,0 +1,1 @@
+This is a Email Spam Detection System that classifies mail into spam or not using machine learning algorithm
